@@ -3,7 +3,7 @@
 ![data science](https://user-images.githubusercontent.com/124745293/222530700-7b51693e-e2ca-422d-86f6-862389f8dd8e.jpg)
 
 
-Welcome to me GitHub profile!😊I'm a friendly, outgoing person who enjoys working in teams and giving my best in everything I do.
+Welcome to my GitHub profile!😊I'm a friendly, outgoing person who enjoys working in teams and giving my best in everything I do.
 
 I graduated as an economist and I'm currently studying a Data Science Bootcamp to expand my skills in data analysis and visualization. I'm passionate about exploring patterns and trends in large datasets and applying my economic knowledge to projects related to economics and finance:bar_chart:
 
